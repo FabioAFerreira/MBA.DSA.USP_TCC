@@ -1,0 +1,32 @@
+# TCC - MBA Data Science & Analytics USP/ESALQ
+# Ciência de Dados aplicada às eleições municipais: análise preditiva do sucesso eleitoral no estado de Rondônia
+# Autor: Fábio Augusto Ferreira
+# Orientador: Dr. Thiago Gentil Ramires
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning & Interpretability
+xgboost>=1.6.0
+lightgbm>=3.3.0
+shap>=0.41.0
+lime>=0.2.0
+
+# Data Processing & Visualization
+plotly>=5.10.0
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Utilities
+joblib>=1.2.0
+tqdm>=4.64.0
+openpyxl>=3.0.0
+
+# Jupyter & Development
+jupyter>=1.0.0
+ipykernel>=6.15.0
+notebook>=6.4.0
